@@ -2,6 +2,7 @@
  * @file uav1.cpp
  * @Lissajous Implementation of Assem's paper UAV#1
  */
+#include <math.h>
 #include <ros/ros.h>
 #include <geometry_msgs/PoseStamped.h>
 #include <geometry_msgs/TwistStamped.h>
